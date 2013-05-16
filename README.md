@@ -5,7 +5,7 @@ This repo contains a complete rewrite of our Java core files that will ultimatel
 
 Additional repos can be found here:
 [SbPanel](https://github.com/SpaceDev/SbPanel),
-[SbRTK](https://github.com/SpaceDev/SbPlugin),
+[SbPlugin](https://github.com/SpaceDev/SbPlugin),
 [SbModule](https://github.com/SpaceDev/SbModule)
 
 We encourage any developer to help us out with issues and pull requests.
